@@ -6,3 +6,5 @@ kepatuhan hukum atas dasar sumber terbuka perangkat lunak di indonesia
 - NLFTs Community [@nlfts](https://github.com/nlfts)
 - Rakitweb Indonesia [@rakitweb](https://github.com/rakitweb)
 - Prataryn [@Prataryn-Enterprise](https://github.com/Prataryn-Enterprise)
+- Alcore ltd [@alcore-ltd](https://github.com/alcore-ltd)
+
