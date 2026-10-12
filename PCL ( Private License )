@@ -1,0 +1,507 @@
+                 PCL - PRIVATE CERYLINE LICENSE
+                   Versi 1.0, 12 Oktober 2026
+
+        Hak Cipta (C) 2026 Abjad Foundation Indonesia <https://abjad.dev>
+
+  Setiap orang diizinkan menyalin, tetapi tidak diizinkan mendistribusikan,
+  salinan persis dari dokumen lisensi ini.
+
+
+                              PEMBUKAAN
+
+  Lisensi ini adalah lisensi PROPRIETER dan TERTUTUP. Lisensi ini BUKAN
+  lisensi sumber terbuka (open source) dan tidak boleh ditafsirkan,
+  disamakan, atau dicampurkan dengan lisensi sumber terbuka mana pun,
+  termasuk GNU AGPL, GPL, LGPL, MIT, BSD, Apache, maupun Mozilla.
+
+  Lisensi ini dirancang bagi proyek perangkat lunak privat di bawah
+  standar Abjad Foundation yang dikerjakan oleh banyak Kontributor. 
+  Tujuannya satu: seluruh pekerjaan, riwayat, dan hasil akhir tetap
+  berada di satu tempat, yaitu Repo Induk, di bawah kendali Pemilik.
+
+  Dengan mengakses, meng-clone, mengunduh, melakukan fork, atau
+  berkontribusi pada Repo Induk, Anda menyatakan telah membaca, memahami,
+  dan terikat oleh seluruh ketentuan di bawah ini. Jika Anda tidak
+  menyetujuinya, Anda dilarang mengakses Kode Sumber.
+
+
+                       SYARAT DAN KETENTUAN
+
+
+  Pasal 1. Definisi
+
+    Dalam Lisensi ini:
+
+    (1.1)  "Lisensi" berarti dokumen ini beserta Lampirannya.
+
+    (1.2)  "Pemilik" berarti tempat lisensi ini di pakai, pemegang hak
+           cipta atas Kode Sumber dan pemilik Repo Induk.
+
+    (1.3)  "Proyek" berarti perangkat lunak tertentu yang disebutkan dalam
+           Lampiran A, yang Kode Sumbernya dilisensikan berdasarkan
+           Lisensi ini.
+
+    (1.4)  "Repo Induk" berarti satu-satunya repositori resmi Proyek,
+           sebagaimana tercantum dalam Lampiran A.
+
+    (1.5)  "Kode Sumber" berarti seluruh isi Repo Induk, yaitu kode
+           program, skrip, konfigurasi, basis data, aset, desain,
+           dokumentasi, rahasia dagang, dan berkas lain, beserta seluruh
+           riwayat revisinya, baik dalam bentuk sumber maupun hasil
+           kompilasi.
+
+    (1.6)  "Kontributor" berarti perorangan atau badan yang telah diberi
+           akses oleh Pemilik secara tertulis atau melalui pemberian akses
+           pada platform repositori untuk berkontribusi pada Repo Induk.
+
+    (1.7)  "Kontribusi" berarti setiap kode, perubahan, perbaikan,
+           dokumentasi, desain, gagasan teknis, atau materi lain yang
+           dibuat atau dikirim Kontributor untuk Proyek.
+
+    (1.8)  "Salinan Lokal" berarti setiap hasil clone, fork, unduhan,
+           arsip, cadangan, cache, tangkapan layar, atau duplikasi Kode
+           Sumber dalam bentuk apa pun dan di media apa pun.
+
+    (1.9)  "Informasi Rahasia" berarti Kode Sumber, arsitektur, rencana
+           produk, kredensial, data, dan segala informasi non-publik
+           tentang Proyek atau Pemilik.
+
+    (1.10) "Pihak Ketiga" berarti setiap orang atau badan selain Pemilik
+           dan Kontributor yang berwenang.
+
+    (1.11) "Layanan Eksternal" berarti layanan, perangkat, atau sistem di
+           luar kendali Pemilik, termasuk layanan kecerdasan buatan (AI),
+           penyimpanan awan, pesan instan, dan platform repositori selain
+           Repo Induk.
+
+
+  Pasal 2. Sifat Lisensi
+
+    (2.1)  Lisensi ini bersifat proprietary, tertutup, dan hanya berlaku
+           bagi Kontributor yang disetujui Pemilik.
+
+    (2.2)  Tidak ada ketentuan dalam Lisensi ini yang memberikan kebebasan
+           untuk menjalankan, mempelajari, memodifikasi, atau
+           mendistribusikan Kode Sumber, selain yang diberikan secara
+           tegas dan terbatas pada Pasal 4.
+
+    (2.3)  Semua hak yang tidak diberikan secara tegas dalam Lisensi ini
+           tetap dimiliki sepenuhnya oleh Pemilik.
+
+    (2.4)  Lisensi ini tidak menciptakan hubungan kerja, kemitraan, agensi,
+           atau usaha patungan antara Pemilik dan Kontributor, kecuali
+           diatur dalam perjanjian tertulis terpisah.
+
+
+  Pasal 3. Persetujuan dan Akses Kontributor
+
+    (3.1)  Seseorang menjadi Kontributor hanya setelah Pemilik memberi
+           persetujuan dan akses. Akses bersifat pribadi.
+
+    (3.2)  Pemilik dapat menetapkan tingkat akses, batas waktu, dan
+           ruang lingkup tugas bagi setiap Kontributor, dan dapat
+           mengubah atau mencabutnya setiap saat tanpa alasan.
+
+    (3.3)  Kontributor menyatakan bahwa ia berusia cakap hukum, atau
+           bertindak dengan persetujuan sah wali atau badan yang
+           diwakilinya, dan berwenang terikat pada Lisensi ini.
+
+    (3.4)  Jika Kontributor bekerja untuk atau atas nama pihak lain
+           (perusahaan, kampus, klien), Kontributor menjamin bahwa
+           Kontribusinya tidak melanggar kewajiban terhadap pihak
+           tersebut dan pihak tersebut tidak memiliki klaim atas
+           Kontribusi maupun Kode Sumber.
+
+
+  Pasal 4. Hak yang Diberikan
+
+    Selama Kontributor mematuhi Lisensi ini sepenuhnya, Pemilik
+    memberikan hak yang terbatas, tidak eksklusif, tidak dapat
+    dialihkan, tidak dapat disublisensikan, tidak berbayar, dan dapat
+    dicabut setiap saat, hanya untuk:
+
+    (a)  mengakses dan melihat Kode Sumber di Repo Induk;
+
+    (b)  membuat Salinan Lokal pada perangkat pribadi Kontributor yang
+         diamankan sesuai Pasal 9, semata-mata untuk mengerjakan Proyek;
+
+    (c)  menjalankan Kode Sumber di lingkungan pengembangan dan pengujian
+         lokal semata-mata untuk keperluan (b);
+
+    (d)  memodifikasi Kode Sumber semata-mata untuk menghasilkan
+         Kontribusi yang dikembalikan ke Repo Induk menurut Pasal 5.
+
+
+  Pasal 5. Kewajiban Arus Kontribusi (Wajib Upstream)
+
+    (5.1)  Seluruh perubahan, modifikasi, dan penambahan terhadap Kode
+           Sumber WAJIB dikembalikan ke Repo Induk melalui push, pull
+           request, atau merge sesuai alur kerja yang ditetapkan Pemilik.
+
+    (5.2)  Dilarang menyimpan, menjalankan, menguji secara berkelanjutan,
+           atau mempublikasikan versi modifikasi apa pun di luar Repo
+           Induk, termasuk pada repositori pribadi, repositori publik,
+           server, gist, paste, atau Layanan Eksternal lain.
+
+    (5.3)  Fork pada platform mana pun hanya diperbolehkan bila bersifat
+           privat, dan wajib selalu tertaut serta mengarah kembali ke
+           Repo Induk. Fork publik dilarang.
+
+    (5.4)  Kontribusi yang belum digabungkan tidak boleh disimpan lebih
+           lama dari yang diperlukan. Cabang (branch) kerja pada
+           Salinan Lokal harus dikirim ke Repo Induk secara berkala.
+
+    (5.5)  Setelah Kontribusi selesai, atau kapan pun Pemilik meminta,
+           Kontributor wajib menghapus seluruh Salinan Lokal secara
+           aman (secure deletion) dalam waktu paling lama tujuh (7)
+           hari kalender, dan menyatakannya secara tertulis bila diminta.
+
+
+  Pasal 6. Kepemilikan dan Pengalihan Hak atas Kontribusi
+
+    (6.1)  Seluruh hak cipta dan hak kekayaan intelektual atas Kontribusi
+           menjadi milik eksklusif Pemilik sejak Kontribusi dibuat.
+
+    (6.2)  Sepanjang diperlukan, Kontributor dengan ini mengalihkan
+           seluruh haknya atas Kontribusi kepada Pemilik, bersifat
+           sekarang, penuh, berlaku di seluruh dunia, untuk seluruh
+           jangka waktu perlindungan, dan tidak dapat ditarik kembali.
+           Bila pengalihan penuh tidak sah menurut hukum yang berlaku,
+           Kontributor memberikan lisensi eksklusif, abadi, bebas
+           royalti, dapat disublisensikan, dan tidak dapat dicabut
+           kepada Pemilik atas segala penggunaan Kontribusi.
+
+    (6.3)  Kontributor setuju menandatangani dokumen tambahan yang wajar
+           bila diperlukan untuk mengesahkan pengalihan tersebut.
+
+    (6.4)  Hak atribusi Kontributor atas namanya tetap diakui dalam
+           riwayat revisi Repo Induk. Sejauh diizinkan hukum, Kontributor
+           tidak akan menggunakan hak moral untuk menghalangi
+           pemanfaatan, perubahan, atau penggabungan Kontribusi oleh
+           Pemilik.
+
+    (6.5)  Tidak ada Kontribusi yang memberi Kontributor hak atas Proyek,
+           saham, royalti, atau kompensasi, kecuali disepakati secara
+           tertulis dalam perjanjian terpisah.
+
+
+  Pasal 7. Larangan
+
+    Kecuali dengan persetujuan tertulis dari Pemilik, Kontributor
+    DILARANG:
+
+    (a)  menyalin, memperbanyak, atau mendistribusikan Kode Sumber di
+         luar alur kontribusi Pasal 5;
+
+    (b)  menggunakan Kode Sumber, sebagian atau seluruhnya, termasuk
+         algoritma, struktur, atau desainnya, untuk proyek, produk, atau
+         layanan lain, termasuk proyek pribadi atau milik pemberi kerja
+         lain;
+
+    (c)  membuat karya turunan di luar Repo Induk;
+
+    (d)  menjual, menyewakan, memberi sublisensi, meminjamkan,
+         menghibahkan, atau mengalihkan Kode Sumber kepada Pihak Ketiga;
+
+    (e)  menjalankan Kode Sumber untuk keperluan produksi, komersial,
+         demonstrasi publik, atau layanan kepada Pihak Ketiga;
+
+    (f)  menghapus, mengubah, atau mengaburkan pemberitahuan hak cipta,
+         penanda lisensi, atau atribusi;
+
+    (g)  melakukan rekayasa balik (reverse engineering), dekompilasi,
+         atau upaya memperoleh bagian Kode Sumber di luar yang secara
+         sah dapat diakses;
+
+    (h)  menghindari, menonaktifkan, atau merusak kontrol akses,
+         pembatasan teknis, atau mekanisme pelacakan Repo Induk;
+
+    (i)  mengungkapkan keberadaan fitur, rencana, atau isi non-publik
+         Proyek kepada Pihak Ketiga;
+
+    (j)  memberi tahu Pihak Ketiga cara memperoleh akses ke Kode Sumber,
+         atau memfasilitasi akses tersebut dengan cara apa pun;
+
+    (k)  mengklaim Kode Sumber atau Kontribusi sebagai karya sendiri atau
+         karya pihak selain Pemilik, termasuk dalam portofolio publik,
+         kecuali mencantumkan keberadaan keterlibatan tanpa membuka
+         isi Kode Sumber dan dengan persetujuan tertulis Pemilik.
+
+
+  Pasal 8. Kerahasiaan
+
+    (8.1)  Kontributor wajib menjaga Informasi Rahasia dengan tingkat
+           kehati-hatian paling tidak sama dengan yang diterapkannya
+           pada informasi rahasianya sendiri, dan tidak pernah kurang
+           dari standar kehati-hatian yang wajar.
+
+    (8.2)  Informasi Rahasia hanya boleh digunakan untuk keperluan
+           Proyek dan tidak boleh diungkapkan kepada siapa pun selain
+           Kontributor lain yang sah dan Pemilik.
+
+    (8.3)  Kewajiban kerahasiaan tidak berlaku atas informasi yang
+           Kontributor dapat buktikan: (a) telah menjadi publik tanpa
+           pelanggaran Lisensi ini; atau (b) wajib diungkapkan oleh
+           perintah pengadilan atau otoritas berwenang, dengan syarat
+           Kontributor segera memberi tahu Pemilik dan hanya
+           mengungkapkan sebatas yang diwajibkan.
+
+    (8.4)  Kewajiban kerahasiaan berlaku selama Kontributor memiliki
+           akses dan terus berlaku selama lima (5) tahun setelah
+           pengakhiran. Untuk rahasia dagang, kewajiban ini berlaku
+           selama informasi tersebut tetap berstatus rahasia dagang.
+
+
+  Pasal 9. Keamanan dan Kredensial
+
+    (9.1)  Akses bersifat pribadi. Kontributor dilarang membagikan akun,
+           token, kunci SSH, atau kredensial kepada siapa pun.
+
+    (9.2)  Salinan Lokal hanya boleh disimpan pada perangkat yang
+           dikuasai Kontributor, dilindungi kata sandi dan enkripsi
+           penyimpanan, serta tidak dapat diakses orang lain.
+
+    (9.3)  Dilarang menyimpan Salinan Lokal pada perangkat bersama,
+           perangkat publik, atau akun penyimpanan yang dibagikan.
+
+    (9.4)  Kontributor wajib melaporkan kepada Pemilik dalam waktu 24
+           (dua puluh empat) jam setelah mengetahui atau mencurigai
+           adanya kebocoran, kehilangan perangkat, atau akses tidak sah
+           terhadap Kode Sumber atau kredensial.
+
+    (9.5)  Kontributor dilarang memasukkan rahasia (kunci API, kata
+           sandi, data pribadi) ke dalam Repo Induk, dan wajib
+           mengikuti pedoman keamanan yang ditetapkan Pemilik.
+
+
+  Pasal 10. Kode Pihak Ketiga dan Keaslian Kontribusi
+
+    (10.1) Kontributor menjamin bahwa Kontribusinya: (a) karya aslinya
+           sendiri atau ia berhak penuh memberikannya; (b) tidak
+           melanggar hak cipta, paten, merek, atau hak pihak lain;
+           dan (c) tidak melanggar kewajiban terhadap pihak mana pun.
+
+    (10.2) Dilarang memasukkan kode, pustaka, atau aset Pihak Ketiga
+           yang berlisensi copyleft atau lisensi lain yang dapat
+           memaksa pembukaan atau pelisensian ulang Kode Sumber
+           (termasuk GPL, AGPL, LGPL, SSPL, dan sejenisnya), kecuali
+           dengan persetujuan tertulis Pemilik.
+
+    (10.3) Setiap ketergantungan (dependency) baru wajib dilaporkan dan
+           disetujui Pemilik sebelum digabungkan.
+
+    (10.4) Kontributor wajib mengganti kerugian Pemilik atas klaim,
+           biaya, dan kerugian yang timbul dari pelanggaran Pasal 10.
+
+
+  Pasal 11. Alat Bantu AI dan Layanan Eksternal
+
+    (11.1) Dilarang mengirim, menempelkan, mengunggah, atau
+           mengungkapkan Kode Sumber atau Informasi Rahasia kepada
+           Layanan Eksternal, termasuk layanan AI, kecuali Pemilik
+           telah menyetujui layanan tersebut secara tertulis.
+
+    (11.2) Dilarang menggunakan Kode Sumber atau Kontribusi untuk
+           melatih, menyempurnakan (fine-tune), atau mengevaluasi
+           model AI atau sistem pembelajaran mesin mana pun, atau
+           membangun indeks pencarian untuk tujuan tersebut.
+
+    (11.3) Bila alat bantu AI yang disetujui digunakan untuk
+           menghasilkan kode, Kontributor tetap bertanggung jawab
+           penuh atas keaslian dan kepatuhan hasilnya terhadap
+           Pasal 10.
+
+
+  Pasal 12. Audit dan Verifikasi
+
+    (12.1) Pemilik berhak mencatat dan memeriksa aktivitas akses,
+           clone, dan kontribusi pada Repo Induk.
+
+    (12.2) Atas permintaan wajar, Kontributor wajib memberi
+           keterangan tertulis mengenai lokasi dan status Salinan
+           Lokal, serta membuktikan penghapusannya.
+
+    (12.3) Kontributor wajib bekerja sama dengan pemeriksaan yang
+           dilakukan Pemilik untuk memastikan kepatuhan Lisensi.
+
+
+  Pasal 13. Lisensi Penuh dan Pembayaran
+
+    (13.1) Setiap pihak yang ingin memodifikasi, menyalin, menjalankan,
+           menggunakan, atau mendistribusikan Kode Sumber di luar yang
+           diizinkan Pasal 4 dan 5 WAJIB terlebih dahulu memperoleh
+           lisensi tertulis ("Lisensi Penuh") dari Pemilik dan membayar
+           biaya lisensi.
+
+    (13.2) Besaran biaya, cakupan, wilayah, dan jangka waktu Lisensi
+           Penuh ditetapkan dalam perjanjian terpisah dengan Pemilik.
+
+    (13.3) Kontributor yang disetujui tidak dikenakan biaya selama
+           sepenuhnya mematuhi Lisensi ini.
+
+    (13.4) Tidak ada tindakan, pembiaran, atau keterlambatan Pemilik yang
+           dapat dianggap sebagai pemberian Lisensi Penuh.
+
+
+  Pasal 14. Pengakhiran
+
+    (14.1) Pemilik dapat mencabut akses dan seluruh hak Kontributor
+           kapan saja. Pencabutan karena pelanggaran berlaku seketika
+           dan tanpa pemberitahuan terlebih dahulu.
+
+    (14.2) Kontributor dapat mengakhiri keikutsertaannya dengan
+           pemberitahuan tertulis kepada Pemilik.
+
+    (14.3) Setelah pengakhiran, Kontributor wajib: (a) segera
+           berhenti menggunakan Kode Sumber; (b) mengirim seluruh
+           Kontribusi yang tersisa ke Repo Induk; (c) menghapus
+           seluruh Salinan Lokal secara aman dalam waktu tujuh (7)
+           hari kalender; dan (d) menyatakan penghapusan secara
+           tertulis bila diminta.
+
+    (14.4) Pasal 6, 7, 8, 10, 13, 14, 15, 16, 17, 18, dan 19 tetap
+           berlaku setelah pengakhiran.
+
+
+  Pasal 15. Pelanggaran dan Upaya Hukum
+
+    (15.1) Setiap pelanggaran Lisensi ini merupakan pelanggaran
+           perjanjian dan, bila relevan, pelanggaran hak cipta dan
+           rahasia dagang menurut hukum yang berlaku.
+
+    (15.2) Kontributor mengakui bahwa pelanggaran dapat menimbulkan
+           kerugian yang tidak dapat dipulihkan secara memadai dengan
+           ganti rugi uang, sehingga Pemilik berhak memohon putusan
+           sela, penetapan pengadilan, atau pemulihan setara lainnya
+           untuk menghentikan pelanggaran, selain upaya hukum lain.
+
+    (15.3) Pemilik berhak menghentikan akses, menuntut ganti rugi,
+           meminta penghapusan dan penyerahan seluruh Salinan Lokal
+           dan hasil turunan, menuntut pengembalian keuntungan yang
+           diperoleh dari pelanggaran, serta menempuh langkah hukum
+           perdata maupun pidana.
+
+    (15.4) Kontributor yang melanggar menanggung biaya yang wajar yang
+           dikeluarkan Pemilik, termasuk biaya penasihat hukum, dalam
+           menegakkan Lisensi ini.
+
+    (15.5) Hak dan upaya hukum Pemilik bersifat kumulatif.
+
+
+  Pasal 16. Tanpa Jaminan
+
+    KODE SUMBER DIBERIKAN "SEBAGAIMANA ADANYA" DAN "SEBAGAIMANA
+    TERSEDIA", TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN
+    TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN KELAYAKAN
+    DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, KEAMANAN,
+    KEAKURATAN, DAN BEBAS DARI PELANGGARAN HAK PIHAK LAIN.
+
+
+  Pasal 17. Pembatasan Tanggung Jawab
+
+    SEJAUH DIIZINKAN OLEH HUKUM, PEMILIK TIDAK BERTANGGUNG JAWAB ATAS
+    KERUGIAN APA PUN, LANGSUNG MAUPUN TIDAK LANGSUNG, KHUSUS,
+    INSIDENTAL, ATAU KONSEKUENSIAL, YANG TIMBUL DARI PENGGUNAAN ATAU
+    KETIDAKMAMPUAN MENGGUNAKAN KODE SUMBER, MESKIPUN PEMILIK TELAH
+    DIBERI TAHU TENTANG KEMUNGKINAN KERUGIAN TERSEBUT.
+
+
+  Pasal 18. Ketentuan Umum
+
+    (18.1) Pemisahan. Bila suatu ketentuan dinyatakan tidak sah atau
+           tidak dapat dilaksanakan, ketentuan tersebut diubah
+           seperlunya agar sah dan ketentuan lainnya tetap berlaku.
+
+    (18.2) Tanpa Pelepasan Hak. Kegagalan atau keterlambatan Pemilik
+           menegakkan suatu ketentuan bukan pelepasan hak.
+
+    (18.3) Pengalihan. Kontributor tidak boleh mengalihkan hak atau
+           kewajibannya. Pemilik boleh mengalihkan Lisensi ini kepada
+           penerus haknya.
+
+    (18.4) Keseluruhan Perjanjian. Lisensi ini beserta Lampiran A dan
+           perjanjian tertulis lain antara para pihak merupakan
+           keseluruhan kesepakatan mengenai pokok bahasannya.
+
+    (18.5) Perubahan Versi. Pemilik dapat menerbitkan versi baru
+           Lisensi ini. Versi baru berlaku bagi Kontributor setelah
+           pemberitahuan tertulis dan dianggap diterima bila
+           Kontributor terus mengakses atau berkontribusi setelah
+           lewat tiga puluh (30) hari. Kontributor yang tidak setuju
+           wajib berhenti dan melaksanakan Pasal 14.3.
+
+    (18.6) Bahasa. Teks Lisensi ini dalam Bahasa Indonesia adalah
+           teks yang berlaku. Terjemahan hanya untuk kemudahan.
+
+    (18.7) Pemberitahuan. Pemberitahuan sah bila dikirim melalui
+           surel ke alamat yang terdaftar pada akun repositori
+           Kontributor atau ke alamat Pemilik dalam Pasal 20.
+
+
+  Pasal 19. Hukum yang Berlaku dan Penyelesaian Sengketa
+
+    (19.1) Lisensi ini diatur dan ditafsirkan menurut hukum Republik
+           Indonesia, termasuk Undang-Undang tentang Hak Cipta yang
+           berlaku.
+
+    (19.2) Para pihak berupaya menyelesaikan sengketa melalui
+           musyawarah dalam waktu tiga puluh (30) hari sejak
+           pemberitahuan tertulis sengketa.
+
+    (19.3) Bila musyawarah gagal, sengketa diselesaikan secara
+           eksklusif di pengadilan negeri yang ditetapkan dalam
+           Lampiran A.
+
+    (19.4) Ketentuan ini tidak membatasi hak Pemilik memohon upaya
+           hukum sementara atau konservatoir di yurisdiksi mana pun
+           untuk melindungi Kode Sumber dan Informasi Rahasia.
+
+
+  Pasal 20. Kontak
+
+    Permintaan Lisensi Penuh, laporan kebocoran, dan pertanyaan
+    mengenai Lisensi ini ditujukan kepada:
+
+        Abjad Foundation Indonesia
+        Surel : abjad@gg7.dev
+        Situs : https://abjad.dev
+
+
+                           PERSETUJUAN
+
+  Dengan mengakses, meng-clone, melakukan fork, mengunduh, atau
+  berkontribusi pada Repo Induk, Kontributor menyatakan telah membaca,
+  memahami, dan menyetujui seluruh ketentuan Lisensi ini, dan bahwa
+  tindakan tersebut merupakan tanda tangan elektronik yang sah.
+
+
+                    AKHIR SYARAT DAN KETENTUAN
+
+
+                           LAMPIRAN A
+                      DATA PROYEK (WAJIB DIISI)
+
+  Isi lampiran ini untuk setiap proyek yang menggunakan Lisensi PCL.
+
+    Nama Proyek        : [NAMA PROYEK]
+    Repo Induk         : [URL REPO INDUK]
+    Pengadilan Negeri  : [KOTA]
+    Berlaku sejak      : [TANGGAL]
+
+
+              CARA MENERAPKAN LISENSI PADA PROYEK BARU
+
+  1. Salin berkas ini ke akar repositori sebagai LICENSE (atau
+     LICENSE.txt), tanpa mengubah isi Pasal 1 sampai 20.
+
+  2. Isi Lampiran A dengan data proyek.
+
+  3. Tambahkan pemberitahuan berikut pada awal setiap berkas sumber:
+
+       Hak Cipta (C) [TAHUN] Abjad Foundation Indonesia
+       Dilisensikan berdasarkan PCL - Private Ceryline License v1.0.
+       Dilarang menyalin, memodifikasi, atau mendistribusikan tanpa
+       izin tertulis. Lihat berkas LICENSE. Kontak: abjad@ggy.dev
+
+  4. Atur repositori menjadi privat, aktifkan perlindungan cabang,
+     dan berikan akses hanya kepada Kontributor yang telah disetujui.
