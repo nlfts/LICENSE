@@ -1,0 +1,510 @@
+                PCL - PRIVATE CERYLINE LICENSE
+                   Version 1.0, 12 October 2026
+
+     Copyright (C) 2026 Abjad Foundation Indonesia <https://abjad.dev>
+
+  Everyone is permitted to copy, but not to distribute, verbatim copies
+  of this license document.
+
+
+                              PREAMBLE
+
+  This License is a PROPRIETARY and CLOSED license. It is NOT an open
+  source license and must not be interpreted, equated with, or combined
+  with any open source license, including the GNU AGPL, GPL, LGPL, MIT,
+  BSD, Apache, or Mozilla licenses.
+
+  This License is designed for private software projects under the
+  standards of Abjad Foundation that are worked on by many Contributors.
+  It has one purpose: all work, history, and final results remain in one
+  place, namely the Parent Repository, under the control of the Owner.
+
+  By accessing, cloning, downloading, forking, or contributing to the
+  Parent Repository, you declare that you have read, understood, and are
+  bound by all of the terms below. If you do not agree to them, you are
+  prohibited from accessing the Source Code.
+
+
+                       TERMS AND CONDITIONS
+
+
+  Article 1. Definitions
+
+    In this License:
+
+    (1.1)  "License" means this document together with its Appendix.
+
+    (1.2)  "Owner" means the party applying this License to a Project,
+           being the copyright holder of the Source Code and the owner
+           of the Parent Repository.
+
+    (1.3)  "Project" means the specific software identified in Appendix
+           A, whose Source Code is licensed under this License.
+
+    (1.4)  "Parent Repository" means the one and only official
+           repository of the Project, as stated in Appendix A.
+
+    (1.5)  "Source Code" means the entire contents of the Parent
+           Repository, namely program code, scripts, configurations,
+           databases, assets, designs, documentation, trade secrets, and
+           other files, together with their entire revision history, in
+           both source and compiled form.
+
+    (1.6)  "Contributor" means an individual or entity that has been
+           granted access by the Owner, in writing or through the
+           granting of access on a repository platform, to contribute to
+           the Parent Repository.
+
+    (1.7)  "Contribution" means any code, change, fix, documentation,
+           design, technical idea, or other material created or
+           submitted by a Contributor for the Project.
+
+    (1.8)  "Local Copy" means any clone, fork, download, archive,
+           backup, cache, screenshot, or duplication of the Source Code
+           in any form and on any medium.
+
+    (1.9)  "Confidential Information" means the Source Code,
+           architecture, product plans, credentials, data, and all
+           non-public information concerning the Project or the Owner.
+
+    (1.10) "Third Party" means any person or entity other than the
+           Owner and an authorized Contributor.
+
+    (1.11) "External Service" means any service, device, or system
+           outside the Owner's control, including artificial
+           intelligence (AI) services, cloud storage, instant
+           messaging, and repository platforms other than the Parent
+           Repository.
+
+
+  Article 2. Nature of the License
+
+    (2.1)  This License is proprietary, closed, and applies only to
+           Contributors approved by the Owner.
+
+    (2.2)  Nothing in this License grants the freedom to run, study,
+           modify, or distribute the Source Code, other than what is
+           expressly and limitedly granted in Article 4.
+
+    (2.3)  All rights not expressly granted in this License remain
+           entirely with the Owner.
+
+    (2.4)  This License does not create an employment, partnership,
+           agency, or joint venture relationship between the Owner and
+           a Contributor, unless provided for in a separate written
+           agreement.
+
+
+  Article 3. Contributor Approval and Access
+
+    (3.1)  A person becomes a Contributor only after the Owner grants
+           approval and access. Access is personal.
+
+    (3.2)  The Owner may set the access level, time limit, and scope of
+           work for each Contributor, and may change or revoke them at
+           any time without cause.
+
+    (3.3)  The Contributor declares that he or she is of legal age, or
+           acts with the valid consent of a guardian or the entity
+           represented, and is authorized to be bound by this License.
+
+    (3.4)  If a Contributor works for or on behalf of another party
+           (a company, university, or client), the Contributor warrants
+           that the Contribution does not violate obligations owed to
+           that party and that the party has no claim over the
+           Contribution or the Source Code.
+
+
+  Article 4. Rights Granted
+
+    As long as the Contributor fully complies with this License, the
+    Owner grants limited, non-exclusive, non-transferable,
+    non-sublicensable, royalty-free rights, revocable at any time, solely
+    to:
+
+    (a)  access and view the Source Code in the Parent Repository;
+
+    (b)  create Local Copies on the Contributor's personal devices,
+         secured in accordance with Article 9, solely to work on the
+         Project;
+
+    (c)  run the Source Code in local development and testing
+         environments solely for the purposes in (b);
+
+    (d)  modify the Source Code solely to produce Contributions that are
+         returned to the Parent Repository under Article 5.
+
+
+  Article 5. Contribution Flow Obligations (Mandatory Upstream)
+
+    (5.1)  All changes, modifications, and additions to the Source Code
+           MUST be returned to the Parent Repository through a push,
+           pull request, or merge in accordance with the workflow set by
+           the Owner.
+
+    (5.2)  It is prohibited to store, run, continuously test, or publish
+           any modified version outside the Parent Repository, including
+           on personal repositories, public repositories, servers,
+           gists, pastes, or other External Services.
+
+    (5.3)  A fork on any platform is permitted only if it is private,
+           and must always remain linked and point back to the Parent
+           Repository. Public forks are prohibited.
+
+    (5.4)  Contributions that have not been merged must not be kept
+           longer than necessary. Working branches in a Local Copy must
+           be pushed to the Parent Repository periodically.
+
+    (5.5)  Once a Contribution is complete, or whenever the Owner so
+           requests, the Contributor must securely delete all Local
+           Copies (secure deletion) within a maximum of seven (7)
+           calendar days, and confirm this in writing upon request.
+
+
+  Article 6. Ownership and Assignment of Rights in Contributions
+
+    (6.1)  All copyrights and intellectual property rights in the
+           Contributions belong exclusively to the Owner from the moment
+           the Contribution is created.
+
+    (6.2)  To the extent necessary, the Contributor hereby assigns all
+           of his or her rights in the Contribution to the Owner, with
+           immediate effect, in full, worldwide, for the entire term of
+           protection, and irrevocably. If a full assignment is not
+           valid under the applicable law, the Contributor grants the
+           Owner an exclusive, perpetual, royalty-free, sublicensable,
+           and irrevocable license for all uses of the Contribution.
+
+    (6.3)  The Contributor agrees to sign reasonable additional
+           documents if needed to validate such assignment.
+
+    (6.4)  The Contributor's right of attribution for his or her name
+           remains recognized in the revision history of the Parent
+           Repository. To the extent permitted by law, the Contributor
+           shall not use moral rights to hinder the Owner's use,
+           modification, or incorporation of the Contribution.
+
+    (6.5)  No Contribution grants the Contributor any right in the
+           Project, shares, royalties, or compensation, unless agreed in
+           writing in a separate agreement.
+
+
+  Article 7. Prohibitions
+
+    Except with the written consent of the Owner, a Contributor is
+    PROHIBITED from:
+
+    (a)  copying, reproducing, or distributing the Source Code outside
+         the contribution flow of Article 5;
+
+    (b)  using the Source Code, in whole or in part, including its
+         algorithms, structure, or design, for another project,
+         product, or service, including personal projects or those of
+         another employer;
+
+    (c)  creating derivative works outside the Parent Repository;
+
+    (d)  selling, leasing, sublicensing, lending, gifting, or
+         transferring the Source Code to a Third Party;
+
+    (e)  running the Source Code for production, commercial, public
+         demonstration purposes, or for services to Third Parties;
+
+    (f)  removing, altering, or obscuring copyright notices, license
+         markings, or attributions;
+
+    (g)  reverse engineering, decompiling, or attempting to obtain parts
+         of the Source Code beyond what is lawfully accessible;
+
+    (h)  circumventing, disabling, or damaging access controls,
+         technical restrictions, or tracking mechanisms of the Parent
+         Repository;
+
+    (i)  disclosing the existence of non-public features, plans, or
+         contents of the Project to Third Parties;
+
+    (j)  telling Third Parties how to obtain access to the Source Code,
+         or facilitating such access in any way;
+
+    (k)  claiming the Source Code or Contributions as one's own work or
+         the work of any party other than the Owner, including in
+         public portfolios, except by stating the fact of involvement
+         without revealing the contents of the Source Code and with the
+         Owner's written consent.
+
+
+  Article 8. Confidentiality
+
+    (8.1)  The Contributor must protect Confidential Information with a
+           degree of care at least equal to that applied to the
+           Contributor's own confidential information, and never less
+           than a reasonable standard of care.
+
+    (8.2)  Confidential Information may only be used for the purposes of
+           the Project and must not be disclosed to anyone other than
+           other authorized Contributors and the Owner.
+
+    (8.3)  The confidentiality obligation does not apply to information
+           that the Contributor can prove: (a) has become public without
+           breach of this License; or (b) is required to be disclosed by
+           court order or competent authority, provided the Contributor
+           promptly notifies the Owner and discloses only to the extent
+           required.
+
+    (8.4)  The confidentiality obligation applies while the Contributor
+           has access and continues for five (5) years after
+           termination. For trade secrets, this obligation applies for
+           as long as the information remains a trade secret.
+
+
+  Article 9. Security and Credentials
+
+    (9.1)  Access is personal. The Contributor is prohibited from
+           sharing accounts, tokens, SSH keys, or credentials with
+           anyone.
+
+    (9.2)  Local Copies may only be stored on devices controlled by the
+           Contributor, protected by a password and storage encryption,
+           and not accessible to others.
+
+    (9.3)  It is prohibited to store Local Copies on shared devices,
+           public devices, or shared storage accounts.
+
+    (9.4)  The Contributor must report to the Owner within 24
+           (twenty-four) hours of learning of or suspecting any leak,
+           loss of a device, or unauthorized access to the Source Code
+           or credentials.
+
+    (9.5)  The Contributor is prohibited from committing secrets (API
+           keys, passwords, personal data) into the Parent Repository,
+           and must follow the security guidelines set by the Owner.
+
+
+  Article 10. Third-Party Code and Authenticity of Contributions
+
+    (10.1) The Contributor warrants that the Contribution: (a) is his or
+           her own original work or he or she has full right to provide
+           it; (b) does not infringe the copyrights, patents,
+           trademarks, or rights of others; and (c) does not violate
+           obligations toward any party.
+
+    (10.2) It is prohibited to include Third-Party code, libraries, or
+           assets under a copyleft license or any other license that
+           could compel the disclosure or relicensing of the Source Code
+           (including GPL, AGPL, LGPL, SSPL, and the like), except with
+           the Owner's written consent.
+
+    (10.3) Every new dependency must be reported and approved by the
+           Owner before being merged.
+
+    (10.4) The Contributor must indemnify the Owner against claims,
+           costs, and losses arising from a violation of Article 10.
+
+
+  Article 11. AI Tools and External Services
+
+    (11.1) It is prohibited to send, paste, upload, or disclose Source
+           Code or Confidential Information to External Services,
+           including AI services, unless the Owner has approved the
+           service in writing.
+
+    (11.2) It is prohibited to use the Source Code or Contributions to
+           train, fine-tune, or evaluate any AI model or machine
+           learning system, or to build search indexes for such
+           purposes.
+
+    (11.3) If an approved AI tool is used to generate code, the
+           Contributor remains fully responsible for the authenticity of
+           the output and its compliance with Article 10.
+
+
+  Article 12. Audit and Verification
+
+    (12.1) The Owner has the right to record and inspect access, clone,
+           and contribution activity in the Parent Repository.
+
+    (12.2) Upon reasonable request, the Contributor must provide a
+           written statement on the location and status of Local
+           Copies, and prove their deletion.
+
+    (12.3) The Contributor must cooperate with inspections carried out
+           by the Owner to ensure compliance with the License.
+
+
+  Article 13. Full License and Payment
+
+    (13.1) Any party wishing to modify, copy, run, use, or distribute
+           the Source Code beyond what is permitted by Articles 4 and 5
+           MUST first obtain a written license (the "Full License") from
+           the Owner and pay the license fee.
+
+    (13.2) The amount of the fee, scope, territory, and term of the Full
+           License are set out in a separate agreement with the Owner.
+
+    (13.3) An approved Contributor is not charged a fee as long as he or
+           she fully complies with this License.
+
+    (13.4) No act, omission, or delay by the Owner shall be deemed a
+           grant of a Full License.
+
+
+  Article 14. Termination
+
+    (14.1) The Owner may revoke the Contributor's access and all rights
+           at any time. Revocation for breach takes effect immediately
+           and without prior notice.
+
+    (14.2) A Contributor may end his or her participation by written
+           notice to the Owner.
+
+    (14.3) Upon termination, the Contributor must: (a) immediately stop
+           using the Source Code; (b) push all remaining Contributions
+           to the Parent Repository; (c) securely delete all Local
+           Copies within seven (7) calendar days; and (d) confirm the
+           deletion in writing upon request.
+
+    (14.4) Articles 6, 7, 8, 10, 13, 14, 15, 16, 17, 18, and 19 survive
+           termination.
+
+
+  Article 15. Breach and Remedies
+
+    (15.1) Any breach of this License constitutes a breach of contract
+           and, where relevant, an infringement of copyright and trade
+           secrets under applicable law.
+
+    (15.2) The Contributor acknowledges that a breach may cause harm
+           that cannot be adequately remedied by monetary damages, so
+           the Owner is entitled to seek injunctive relief, court
+           orders, or equivalent remedies to stop the breach, in
+           addition to other remedies.
+
+    (15.3) The Owner is entitled to terminate access, claim damages,
+           demand the deletion and surrender of all Local Copies and
+           derivatives, claim the return of profits obtained from the
+           breach, and pursue civil and criminal legal action.
+
+    (15.4) A breaching Contributor bears the reasonable costs incurred
+           by the Owner, including legal counsel fees, in enforcing
+           this License.
+
+    (15.5) The Owner's rights and remedies are cumulative.
+
+
+  Article 16. No Warranty
+
+    THE SOURCE CODE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT
+    WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+    TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+    SECURITY, ACCURACY, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS.
+
+
+  Article 17. Limitation of Liability
+
+    TO THE EXTENT PERMITTED BY LAW, THE OWNER SHALL NOT BE LIABLE FOR
+    ANY LOSS, WHETHER DIRECT OR INDIRECT, SPECIAL, INCIDENTAL, OR
+    CONSEQUENTIAL, ARISING FROM THE USE OF OR INABILITY TO USE THE
+    SOURCE CODE, EVEN IF THE OWNER HAS BEEN ADVISED OF THE POSSIBILITY
+    OF SUCH LOSS.
+
+
+  Article 18. General Provisions
+
+    (18.1) Severability. If any provision is held invalid or
+           unenforceable, it shall be modified to the extent necessary
+           to make it valid and the remaining provisions shall remain in
+           effect.
+
+    (18.2) No Waiver. The Owner's failure or delay in enforcing any
+           provision is not a waiver of rights.
+
+    (18.3) Assignment. The Contributor may not assign his or her rights
+           or obligations. The Owner may assign this License to its
+           successors.
+
+    (18.4) Entire Agreement. This License together with Appendix A and
+           any other written agreement between the parties constitutes
+           the entire agreement on its subject matter.
+
+    (18.5) Version Changes. The Owner may issue new versions of this
+           License. A new version applies to the Contributor after
+           written notice and is deemed accepted if the Contributor
+           continues to access or contribute after thirty (30) days. A
+           Contributor who does not agree must stop and perform Article
+           14.3.
+
+    (18.6) Language. The Indonesian text of this License is the
+           governing text. Translations are for convenience only.
+
+    (18.7) Notices. A notice is valid if sent by email to the address
+           registered on the Contributor's repository account or to the
+           Owner's address in Article 20.
+
+
+  Article 19. Governing Law and Dispute Resolution
+
+    (19.1) This License is governed by and construed in accordance with
+           the laws of the Republic of Indonesia, including the
+           applicable Copyright Law.
+
+    (19.2) The parties shall seek to resolve disputes through
+           deliberation (musyawarah) within thirty (30) days of written
+           notice of the dispute.
+
+    (19.3) If deliberation fails, the dispute shall be resolved
+           exclusively in the district court specified in Appendix A.
+
+    (19.4) This provision does not limit the Owner's right to seek
+           interim or conservatory relief in any jurisdiction to
+           protect the Source Code and Confidential Information.
+
+
+  Article 20. Contact
+
+    Requests for a Full License, leak reports, and questions concerning
+    this License should be addressed to:
+
+        Abjad Foundation Indonesia
+        Email : abjad@ggy.dev
+        Web   : https://abjad.dev
+
+
+                           ACCEPTANCE
+
+  By accessing, cloning, forking, downloading, or contributing to the
+  Parent Repository, the Contributor declares that he or she has read,
+  understood, and agreed to all terms of this License, and that such
+  action constitutes a valid electronic signature.
+
+
+                    END OF TERMS AND CONDITIONS
+
+
+                            APPENDIX A
+                  PROJECT DETAILS (MUST BE FILLED IN)
+
+  Fill in this appendix for each project that uses the PCL License.
+
+    Project Name     : [PROJECT NAME]
+    Parent Repository: [PARENT REPOSITORY URL]
+    District Court   : [CITY]
+    Effective Date   : [DATE]
+
+
+             HOW TO APPLY THIS LICENSE TO A NEW PROJECT
+
+  1. Copy this file to the root of the repository as LICENSE (or
+     LICENSE.txt), without changing the contents of Articles 1
+     through 20.
+
+  2. Fill in Appendix A with the project details.
+
+  3. Add the following notice at the top of every source file:
+
+       Copyright (C) [YEAR] Abjad Foundation Indonesia
+       Licensed under the PCL - Private Ceryline License v1.0.
+       Copying, modifying, or distributing without written permission
+       is prohibited. See the LICENSE file. Contact: abjad@ggy.dev
+
+  4. Set the repository to private, enable branch protection, and grant
+     access only to Contributors who have been approved.
